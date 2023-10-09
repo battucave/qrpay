@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "editor.acceptSuggestionOnEnter": "on",
+    "cSpell.words": [
+        "Pagadito"
+    ]
+}
